@@ -6,14 +6,14 @@ The purpose of this repo is for simply stacking up all the common Data Science p
 ```python
 import pandas as pd
 
-df = pd.read_csv("https://github.com/lucasmengual92/datasets/titanic_train.csv")
+df = pd.read_csv("https://github.com/lucasmengual92/datasets/boston.csv")
 ```
 
 ## Datasets
 
 - Titanic (Logistic Regression)
 - Boston (Linear Regression)
-- Iris (Multi-class Classification)
+- Iris (Classification)
 
 ## License
 
@@ -23,8 +23,8 @@ Copyright (c) 2020 Lucas Mengual ([view](LICENSE))
 
 ## References
 
-1. Documentation at https://www.streamlit.io/
-2. Emojis at https://emojipedia.org
+1. Machine Learning Repository http://archive.ics.uci.edu/ml/index.php
+2. Titanic: Machine Learning From Disaster https://www.kaggle.com/c/titanic/overview
 
 
 ## Credits
