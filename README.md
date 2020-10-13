@@ -1,6 +1,6 @@
 # 📚Datasets
 
-The purpose of this repo is for simply stacking up all the common Data Science problem datasets, so we (and you) can use the read  is a web based exploratory data analysis (EDA) app platform to create responsive visualizations easily, data analysis with charts/plots, data processing, and PPT and Jupyter exports. Built using [streamlit](https://www.streamlit.io/)
+The purpose of this repo is for simply stacking up all the common Data Science problem datasets, so we (and you) can use the `read_csv()` function from the Pandas library to load the datasets with the repo´s url.
 
 ## How to use
 ```python
