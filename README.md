@@ -6,7 +6,7 @@ The purpose of this repo is for simply stacking up all the common Data Science p
 ```python
 import pandas as pd
 
-df = pd.read_csv("https://github.com/lucasmengual92/datasets/boston.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/lucasmengual92/datasets/main/data/boston.csv")
 ```
 
 ## Datasets
