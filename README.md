@@ -31,4 +31,4 @@ Copyright (c) 2020 Lucas Mengual ([view](LICENSE))
 ## Credits
 
 - Author: Lucas Mengual
-- Contact: twitter.com/@lukemaxmusic
+- Contact: linkedin.com/in/lucasmengual/
