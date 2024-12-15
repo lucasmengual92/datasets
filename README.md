@@ -14,6 +14,7 @@ df = pd.read_csv("https://raw.githubusercontent.com/lucasmengual92/datasets/main
 - Titanic (Logistic Regression)
 - Boston (Linear Regression)
 - Iris (Classification)
+- La Liga Matches 1995-2021 (Analysis)
 
 ## License
 
